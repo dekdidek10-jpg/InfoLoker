@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/router.ts","./src/vite-env.d.ts","./src/data/demo.ts","./src/utils/format.ts","./src/App.vue","./src/components/JobCard.vue","./src/views/AboutView.vue","./src/views/HomeView.vue","./src/views/JobDetailView.vue","./src/views/JobsView.vue","./src/views/MapView.vue","./src/views/ProfileView.vue","./src/views/SkillsView.vue"],"version":"5.9.3"}
